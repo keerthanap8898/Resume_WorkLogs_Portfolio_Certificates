@@ -20,7 +20,7 @@ I seek impactful roles to drive innovation at scale.
 - Calendly [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 - 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
 - 📱 Phone (Google Voice): [+1 360-328-1182](tel:+13603281182)  
-- Resume [drive.google.com/file/d/11V0FBs9bLXjwwQL7STePGwTkjxIXlkY5/view](https://drive.google.com/file/d/11V0FBs9bLXjwwQL7STePGwTkjxIXlkY5/view)  
+- Resume [drive.google.com/file/d/1pV1RQemZlUELQ4t7GWyczidMFMxrcbak/view](https://drive.google.com/file/d/1pV1RQemZlUELQ4t7GWyczidMFMxrcbak/view)  
 - Portfolio [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)  
 - GitHub [github.com/keerthanap8898](https://github.com/keerthanap8898)  
 - Google Scholar [scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ](https://scholar.google.com/citations?hl=en&user=OhmFGtIAAAAJ)  
