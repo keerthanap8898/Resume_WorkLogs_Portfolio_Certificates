@@ -15,7 +15,7 @@ I seek impactful roles to drive innovation at scale.
 
 ---
 
-🔗 ## Links**  
+🔗 ## Links  
 
 - LinkedIn [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)  
 - Calendly [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
