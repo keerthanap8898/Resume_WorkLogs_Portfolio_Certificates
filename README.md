@@ -1,6 +1,5 @@
-# Keerthana’s Substack
-### Keerthana Purushotham - Networking  
-***Relevant Links related to me & my work***  
+# Keerthana Purushotham - Networking  
+### ***Relevant Links related to me & my work***  
 `Sep 25, 2025`
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
@@ -15,7 +14,7 @@ I seek impactful roles to drive innovation at scale.
 
 ---
 
-🔗 ## Links  
+## 🔗 Links  
 
 - LinkedIn [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)  
 - Calendly [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
@@ -35,14 +34,16 @@ I seek impactful roles to drive innovation at scale.
 - ACL Anthology Author Profile [aclanthology.org/people/keerthana-purushotham](https://aclanthology.org/people/keerthana-purushotham)  
 - Art Portfolio - Instagram [instagram.com/kp_artses](https://instagram.com/kp_artses)  
 - YouTube (*coming soon*) [youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
+---
 
-- ## Skills Mindmap
+## 🖼️ Images
+- ### `Skills Mindmap`
   - ![Skills Mindmap](https://github.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/blob/main/Winter%202025/Skills_mindmap_april-detailed-high-qlty.jpeg)
-- ## Radar Chart: Skills Distribution Across Top Experiences
+- ### `Radar Chart: Skills Distribution Across Top Experiences`
   - ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/blob/main/Winter%202025/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
-- ## Weighted Technical Value by Experience 
+- ### `Weighted Technical Value by Experience` 
   - ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/blob/main/Winter%202025/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
-- ## Weighted Technical Value by Skill 
+- ### `Weighted Technical Value by Skill` 
   - ![Weighted Technical Value by Skill](https://github.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/blob/main/Winter%202025/Weighted%20Technical%20Value%20by%20Skill%20%E2%80%94%20Keerthana%20Purushotham.png)
-- ## Portfolio Balance by Skill Group 
+- ### `Portfolio Balance by Skill Group` 
   - ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/Resume_WorkLogs_Portfolio_Certificates/blob/main/Winter%202025/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
