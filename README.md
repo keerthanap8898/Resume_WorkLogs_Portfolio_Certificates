@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`All Links are updated as of Sep 26, 2025 - 14:42 PST`**
+**`All Links are updated as of Oct 05, 2025 - 19:51 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
