@@ -105,4 +105,8 @@ I seek impactful roles to drive innovation at scale.
 - ### `Portfolio Balance by Skill Group` 
 >  #### *Fed all my data into AI things, then asked it to make a high-level pie-chart.*
 > ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/bio/blob/main/Other/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
-  ---
+  --- 
+```
+Copyright (C) 2025  Keerthana Purushotham <keerthanap0808@gmail.com>, <kpurusho@ucsd.edu>, <keep.consult@proton.me>.
+Licensed under the GNU GPL v2. See LICENSE for details.
+```
