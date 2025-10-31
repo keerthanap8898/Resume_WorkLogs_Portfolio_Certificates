@@ -22,7 +22,9 @@ I seek impactful roles to drive innovation at scale.
 # 🔗 Links  
 #### ❶ **`LinkedIn`**: [linkedin.com/in/keerthanapurushotham](https://linkedin.com/in/keerthanapurushotham)
 #### ❷ **`GitHub`**: [github.com/keerthanap8898](https://github.com/keerthanap8898)
-#### ❸ **`Resume`**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
+#### ❸ **`Resume`**: 
+>    - ➀ **Google-drive**: [drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view](https://drive.google.com/file/d/1LtGicbL9teaShTK5oXK4NMeturMUYBJk/view)
+>    - ➁ **[***alt***]**: [*in case Gmail/Google-drive isn't accessible on your employer's corporate VPN*](https://www.overleaf.com/read/qhckzfgxdrgs#af9564)
 #### ❹ **`Portfolio`**: [drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU/view)
 #### ❺ **`Master Work-History`**: [drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view](https://drive.google.com/file/d/1rfnKRi1yG7e-KyQfpTxthXagnjXKVkGg/view)
 #### ❻ **`AI Chatbot trained on Keerthana's Profile`** ( ***Google-LM*** ):
