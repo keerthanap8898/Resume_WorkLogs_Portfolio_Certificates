@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Oct 30, 2025 - 23:30 PST`**
+**`Last updated as of Nov 25, 2025 - 00:47 PST`**
 
 I’m a full-stack SDE with expertise in **cybersecurity, cloud, NLP & statistics**.  
 At **AWS**, I build predictive automation tools for CVE evaluation, design scalable cloud infra, & handle threat detection for Amazon Linux.  
@@ -17,7 +17,9 @@ I seek impactful roles to drive innovation at scale.
 # ☎️ Contact
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 #### ❷ 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
-#### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)  
+#### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)
+#### 4  Fedora: @keepur:fedora.im (pagure.io/user/keepur)
+#### 5  Discord: 747152507184349195 ( @keepur8 )
 
 ---
 # 🔗 Links  
