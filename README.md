@@ -18,7 +18,7 @@ I seek impactful roles to drive innovation at scale.
 #### ❶ 🗓️ Calendly: [calendly.com/keerthanap0808/30min](https://calendly.com/keerthanap0808/30min)  
 #### ❷ 📧 Email: [keep.consult@proton.me](mailto:keep.consult@proton.me)  
 #### ❸ 📱 Phone: [+1 360-328-1182](tel:+13603281182)
-#### ❹ Fedora: @keepur:fedora.im (pagure.io/user/keepur)
+#### ❹ Fedora: @keepur:fedora.im - [pagure.io/user/keepur](https://pagure.io/user/keepur)
 #### ❺ Discord: 747152507184349195 ( @keepur8 )
 
 ---
