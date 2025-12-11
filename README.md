@@ -20,8 +20,10 @@
 > > - She's also tasked with accurately evaluating thse bugs, finding &/or designing their corresponding patches from scratch if  unavailable- to design, plan and prove remediation plan, without delays.
 > > - A large part of her work also involves building **predictive automation tools for `CVE` evaluation**, designs **scalable cloud infrastructure**, & supporting **threat detection & mgmt for Amazon Linux**.
 > 
-> ✧ Keerthana's niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**. She has also contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
->
+> ✧ Keerthana's strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> > - She has contributed significantly to **system design** efforts, ensuring that critical security information is incorporated effectively into real-world defenses. With a strong computer science foundation from **UCSD**, she has built skills across `NLP`, `recommender systems`, `cloud architectures`, & has `published research`.
+> > - Her niche in `AI`, `NLP`, & `computational statistics` enables her to apply rigorous statistical methods to **security analysis**, **threat modeling**, & **security R&D**.
+> 
 > ***`She is seeking impactful roles where she can drive innovation at scale.`***
 > 
 > ---
