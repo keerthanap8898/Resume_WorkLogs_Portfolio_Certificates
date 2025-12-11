@@ -1,6 +1,6 @@
 # Keerthana Purushotham - Networking  
 ### ***Relevant Links related to me & my work***  
-**`Last updated as of Dec 09, 2025 - 03:02 PST`**
+**`Last updated as of Dec 10, 2025 - 21:43 PST`**
 
 ```
 ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
