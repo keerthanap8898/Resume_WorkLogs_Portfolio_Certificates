@@ -75,7 +75,7 @@
 ### ❷ **`Portfolio`**:
 > **(** *Transcripts, certificates, & LORs.* **)**
 > 
-> - [*drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
+> - [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU)
 
  ❸ **`LinkedIn`**: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
  
