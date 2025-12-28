@@ -109,9 +109,8 @@
 > - #### **🅰** **`Cve Toad`** :
 >   `☆` **[** *Security* **|** *OSS* **]**
 >   
-> ***I propose a secure, ephemeral “CVE‐Checker Shell” — a command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
-> 
-> ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
+> #### ***A command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
+> ##### ***The shell initialises with short-lived authentication tokens (≤ 8 hours) and dynamically installs approved AI model clients (e.g., OpenAI, Anthropic) inside the container. Once execution completes, the container and all secrets are destroyed, leaving no footprint on the host.***
 > >   - ➀ GitHub README - [*github.com/keerthanap8898/CveToad*](https://github.com/keerthanap8898/CveToad)
 > >   - ➁ GitHub Project Background - [*github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md*](https://github.com/keerthanap8898/CveToad/blob/main/CVE-user-story_Description.md)
 > >   - ➂ Zenodo - [*zenodo.org/records/18065367*](https://zenodo.org/records/18065367)
@@ -123,14 +122,13 @@
 > - #### **🅱** **`Understanding-Testing-Frameworks`** :
 >   `☆` **[** *SDLC* **|** *Chapter* or *Booklet* **]**
 >   
-> ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
+> #### ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
 > 
 > #### ***`Key ideas`***:
-> 1. ***┈ Every SDLC stage corresponds to a different NP-hard decision problem***.
-> 2. ***┈ Tests are complexity-reduction mechanisms***.
-> 3. ***┈ Determinism is engineered; not assumed***.
-> 
-> ***This project is early, but the core structure is there.***
+> 1. *┈ Every SDLC stage corresponds to a different NP-hard decision problem*.
+> 2. *┈ Tests are complexity-reduction mechanisms*.
+> 3. *┈ Determinism is engineered; not assumed*.
+> ##### ***This project is early, but the core structure is there.***
 > >   - ➀ GitHub - [*github.com/keerthanap8898/Understanding-Testing-Frameworks*](https://github.com/keerthanap8898/Understanding-Testing-Frameworks#see-book---breachtracegitbookiounderstanding-testing-frameworks--wip-)
 > >   - ➁ LinkedIn - [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
 > >   - ➂ Zenodo - [*zenodo.org/records/17945080*](https://zenodo.org/records/17945080)
@@ -146,7 +144,7 @@
 
 #### ❷ `Accuracy Is Not Enough`
 > #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
-   > ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
+   > ##### ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
    >   - ➀ LinkedIn - [*linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj*](https://www.linkedin.com/posts/keerthanapurushotham_vulnerabilitymanagement-cve-security-activity-7374937046538436608-quKj)
    >   - ➁ Substack - [*keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion*](https://keerthanapurushotham.substack.com/p/accuracy-is-not-enough-confusion)
    >   - ➂ Medium - [*medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b*](https://medium.com/@keerthanapurushotham/accuracy-is-not-enough-confusion-matrix-metrics-that-actually-work-in-cve-impact-prediction-d4bafd9cec1b)
@@ -178,7 +176,8 @@
 
 #### ❻ `Automated EDI Mapping` 
 **(** *internship at Cleo* **)**
-> #### `☆` ***Analysis & automation of types of EDI mapping (to help facilitate the manual data mapping in data transformation systems) - using RNNs, Logistic Regression, & Fuzzy Logic to generate results and comparison the three approaches. Repo includes the apk code executing a function to read customer requirement documents as a user-input & automatically generate a ruleset file dynamically.***
+> #### `☆` ***Analysis & automation of types of EDI mapping (to help facilitate the manual data mapping in data transformation systems) - using RNNs, Logistic Regression, & Fuzzy Logic to generate results and comparison the three approaches.***
+> ##### ***Repo includes the apk code executing a function to read customer requirement documents as a user-input & automatically generate a ruleset file dynamically.***
    >   - ➀ GitHub - [*github.com/keerthanap8898/Automated-EDI-mapping*](https://github.com/keerthanap8898/Automated-EDI-mapping)
    >   - ➁ Zenodo - [*zenodo.org/records/18065399*](https://zenodo.org/records/18065399)
    > ---
