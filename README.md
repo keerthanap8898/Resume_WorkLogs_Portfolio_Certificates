@@ -79,7 +79,7 @@
 
  ❸ **`LinkedIn`**: [*linkedin.com/in/keerthanapurushotham*](https://linkedin.com/in/keerthanapurushotham)
  
- ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) | [*github.com/keerthanap8898*](https://github.com/keerthanap8898) | [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
+ ❹ **`GitHub`**: [*keerthanap8898.github.io/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) **|** [*github.com/keerthanap8898*](https://github.com/keerthanap8898) **|** [*github.com/keerthanap8898?tab=repositories*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)
  
  ❺ **`Public Mention`**: [*forum.posit.co/t/r-language-openssl-vulnerability/186809/5*](https://forum.posit.co/t/r-language-openssl-vulnerability/186809/5#:~:text=changelog%20%20%7C%20head%20%2D2-,which%20will%20lead%20to,-%23%20rpm%20%2Dq%20openssl)
 
