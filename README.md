@@ -48,7 +48,7 @@
 > >
 > > ---
 > > 
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 
 # ☎️ Contact
@@ -67,7 +67,7 @@
 > | ❽. | **`X`** **(** *twitter* **)** / **`Discord`** | [***X***: *keepur8*](https://x.com/keepur8) / [***Discord***: **747152507184349195** - **(** *keepur8* **)**](https://discord.com/users/747152507184349195) |
 > | ❾. | **`AI Chatbot`** | [***notebooklm.google***.*com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b*](https://notebooklm.google.com/notebook/fe2125af-e6e0-4815-8181-041b267e3b8b) |
  
-[*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 ---
 
@@ -109,7 +109,7 @@
 >    - ➀ **Art Portfolio** ( *Instagram* ) - [*instagram.com/kp_artses*](https://instagram.com/kp_artses)
 >    - ➁ **YouTube** ( *coming soon* ) - [*youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow*](https://youtube.com/channel/UCb7duYCP_dpm4lftWeiz3ow)
 
-[*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 ---
 
@@ -142,6 +142,7 @@
 > >   - ➁ LinkedIn - [*linkedin.com/feed/update/urn:li:activity:7402152817488281600*](https://lnkd.in/g-cxFaxn)
 > >   - ➂ Zenodo - [*zenodo.org/records/17945080*](https://zenodo.org/records/17945080)
 > > ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 #### ❶ `Text To Video App`
 > #### `☆` ***Async API using the Genmo Mochi-1 model hosted on 8×H100 GPU Kubernetes work nodes.***
@@ -190,6 +191,7 @@
    >   - ➀ GitHub - [*github.com/keerthanap8898/Automated-EDI-mapping*](https://github.com/keerthanap8898/Automated-EDI-mapping)
    >   - ➁ Zenodo - [*zenodo.org/records/18065399*](https://zenodo.org/records/18065399)
    > ---
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 ### ❼ 🧩 `Mini Projects` | [*linkedin.com/in/keerthanapurushotham/details/projects*](https://www.linkedin.com/in/keerthanapurushotham/details/projects/)
    > **ⓐ**. **Build a Neural CRF for Constituency Parsing** : **\[** *Advanced-Statistical-NLP* **| CSE291]**
@@ -210,7 +212,7 @@
    > >  *IoT-based Arduino project using either Arduino &/or RaspberryPi with moisture sensors & pumps to maintain optimal soil moisture by plant species. Awarded 2nd place in freshman Robotics & Engineering competition at MSRIT.*  
    > >
    > > ---
-[*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+[***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 
 ---
 
@@ -220,7 +222,7 @@
 > ---
 > ![Skills Mindmap](https://github.com/keerthanap8898/bio/blob/main/Other/skills_mindmap_MAY_2025_JPEG.jpeg)
 >
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
@@ -229,7 +231,7 @@
 > ---
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
 >
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
@@ -238,7 +240,7 @@
 > ---
 > ![Weighted Technical Value by Experience](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Experience%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
@@ -247,7 +249,7 @@
 > ---
 > ![Weighted Technical Value by Skill](https://github.com/keerthanap8898/bio/blob/main/Other/Weighted%20Technical%20Value%20by%20Skill%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
@@ -256,7 +258,7 @@
 > ---
 > ![Portfolio Balance by Skill Family](https://github.com/keerthanap8898/bio/blob/main/Other/Portfolio%20Balance%20by%20Skill%20Family%20%E2%80%94%20Keerthana%20Purushotham.png)
 >
-> [*`back to index`*](https://github.com/keerthanap8898/bio#table-of-contents)
+> [***`back to index`***](https://github.com/keerthanap8898/bio#table-of-contents)
 >
 > --- 
 
