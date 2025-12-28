@@ -6,7 +6,7 @@
 > ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼
 > ```
 > 
-**(** *Last updated on Dec 28, 2025 - 02:39 PST* **)**
+**(** *Last updated on Dec 28, 2025 - 03:40am PST* **)**
 
 
 ## **`Table of Contents`**
@@ -211,7 +211,7 @@
 > --- 
 
 ### ❷ `Radar Chart: Skills Distribution Across Top Experiences`
-> #### *Fed all my data into AI things, then asked it to analyze all my skill distribution overall.*
+> #### *Fed all my data into AI things, then asked it to analyze my overall skill distribution.*
 > ---
 > ![Radar Chart: Skills Distribution Across Top Experiences](https://github.com/keerthanap8898/bio/blob/main/Other/Radar%20Chart%3A%20Skills%20Distribution%20Across%20Top%20Experiences.png)
 >
