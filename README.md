@@ -13,7 +13,7 @@
 > 
 > - #### A. [**`☎️ Contact Keerthana`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-contact)  
 > - #### B. [**`🔗 Resume & other Links`**](https://github.com/keerthanap8898/bio#-links)  
-> - #### C. [**`🛠️ All links related to her personal Projects`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
+> - #### C. [**`🛠️ Links to all of her personal Projects`**](https://github.com/keerthanap8898/bio#%EF%B8%8F-projects) 
 > - #### D. [**`🎨 Images`**](https://github.com/keerthanap8898/bio#-images)
 >
 > ---
