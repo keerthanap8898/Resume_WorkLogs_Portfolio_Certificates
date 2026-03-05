@@ -255,7 +255,7 @@
 ##### ➂ 📱 `Phone`: » [+*1 360-328-1182*](tel:+13603281182) | » [*USA eight-five-eight_203_8957*](tel:+18582038957)
 > | # | **Category** | **Links** |
 > |------|----------|-----------------------------|
-> | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***overleaf.com**/read/ttkbttqdtwhz#23974e*](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***drive.google.com**/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU*](https://drive.google.com/file/d/15D_JgxmmwWk-3jJxCQKG3U_3Sug6wcvU) |
+> | ⓿. | **`RESUME`** & **`PORTFOLIO`**  | [***www.overleaf.com/read/ttkbttqdtwhz#23974e***](https://www.overleaf.com/read/ttkbttqdtwhz#23974e) / [***1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4***](https://1drv.ms/b/c/0d09da568e931e81/IQBP3oJ0TEdhRbeydrnqZZIFAbRhzzJ80DUWb-e7UIxmaW4) |
 > | ❶. | **`Matrix` (** *Element* **)** / **`Pagure`**  | [@***keepur***:*fedora.im*](https://matrix.to/#/@keepur:fedora.im) / [*pagure.io/user/**keepur***](https://pagure.io/user/keepur) |
 > | ❷. | **`Fedora`** / *fedora*:**`WIKI`** / **`Redhat`** | [*accounts.fedoraproject.org/user/**keepur***](https://accounts.fedoraproject.org/user/keepur) / [*fedoraproject.org/**wiki**/user:**keepur***](https://fedoraproject.org/wiki/User:Keepur) / [*access.redhat.com/account/**57599301***](https://access.redhat.com/account/57599301) |
 > | ❸. | **`Website` (** *personal* **)** / **`LinkedIn`** | [*keerthanap8898.**github.io**/keerthanap8898*](https://keerthanap8898.github.io/keerthanap8898) / [*linkedin.com/in/**keerthanapurushotham***](https://linkedin.com/in/keerthanapurushotham) |
