@@ -137,7 +137,7 @@
 
 #### ❷ `Accuracy Is Not Enough` [*VULNCON-26*] | 30min plenary talk (*solo speaker*) — April 2026
    > #### `☆` ***Confusion Matrix Metrics That Actually Work in CVE Impact Prediction***
-### **˗ˏˋ ⭒** *Accepted to present a* *`30min plenary seminar`*, (*with Q&A*) *at* [***`Vulncon2026`***](first.org/conference/vulncon26). **⭒ ˎˊ˗** 
+#### **˗ˏˋ ⭒** *Accepted to present a* *`30min plenary seminar`*, (*with Q&A*) *at* [***`Vulncon2026`***](first.org/conference/vulncon26). **⭒ ˎˊ˗** 
 - ##### *hosted by* [*first.org*](first.org/conference/vulncon26) & [*cve.org*](CVE.org) *in mid April, 2026*; *where Keerthana will be the **`solo author/speaker`***.
    >
    > ##### ***An applied research summary introducing advanced confusion-matrix metrics that outperform accuracy in predicting CVE exploitability impact.***
