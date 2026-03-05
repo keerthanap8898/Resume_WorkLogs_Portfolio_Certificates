@@ -97,8 +97,8 @@
 ---
 
 # 🛠️ Projects  
-### ⓿ `New WIP`
-> - #### **🅰** **`Cve Toad`** :
+#### ⓿ `New WIP`
+> - #### **🅰** ***`Cve Toad`*** :
 >   `☆` **[** *Security* **|** *OSS* **]**
 >   
 > #### ***A command‐line tool that launches a temporary containerised runtime to perform AI-assisted CVE impact analysis.***
@@ -111,7 +111,7 @@
 > > 
 > > ---
 >
-> - #### **🅱** **`Understanding-Testing-Frameworks`** :
+> - #### **🅱** ***`Understanding-Testing-Frameworks`*** :
 >   `☆` **[** *SDLC* **|** *Chapter* or *Booklet* **]**
 >   
 > #### ***A comprehensive, formal, & practical framework for software testing across the entire SDLC, from code to continuous verification.***
