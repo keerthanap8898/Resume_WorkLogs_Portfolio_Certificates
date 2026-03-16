@@ -1,4 +1,8 @@
-# **Keerthana Purushotham**
+> #### ✧ ***`ALL DOCS`***
+> - ###### ***MS OneDrive Folder***: [*1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w*](https://1drv.ms/f/c/0d09da568e931e81/IgAVh_acZ4x6RoLfBqVPgngUAYgxYLRQcYL8__i7YrNn06w)
+
+---
+# **`Keerthana Purushotham`**
 *aka*  -  ***`K.P.`***
 #### **˗ˏˋ ⭒**  [*github.com/stars/keerthanap8898/lists/for-the-recruiter*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  **⭒ ˎˊ˗**
 > `> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼`
