@@ -3,7 +3,7 @@
 
 ---
 # **`Keerthana Purushotham`**
-*aka*  -  ***`K.P.`***
+> *aka*  -  ***`K.P.`***
 #### **˗ˏˋ ⭒**  [*github.com/stars/keerthanap8898/lists/for-the-recruiter*](https://github.com/stars/keerthanap8898/lists/for-the-recruiter)  **⭒ ˎˊ˗**
 > `> ◯ ☽ Computer Scientist ◐ Software Developer ◑ Research Engineer ❨ ☼`
 > 
